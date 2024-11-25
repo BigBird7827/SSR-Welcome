@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>[SSR] Second Star to the Right</title>
+  
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background-color: #0a0a1a;
+      color: white;
+    }
+    .container {
+      text-align: center;
+      padding: 50px;
+    }
+    .logo {
+      font-family: Arial, sans-serif;
+      font-size: 40pt;
+      color: #ffd700;
+      background-color: rgba(0, 0, 0, 0.5);
+      padding: 20px;
+      display: inline-block;
+      text-shadow: 2px 2px 5px #000;
+      margin-bottom: 20px;
+    }
+    .description {
+      font-size: 1.6em;
+      margin-bottom: 30px;
+    }
+    .enter-button, .new-buttons {
+      padding: 15px 30px;
+      font-size: 1.2em;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to bottom, #000000, #2c2c2c);
+      color: #ffd700;
+      border: 1px solid white;
+      border-radius: 10px;
+      cursor: pointer;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+      transition: all 0.3s ease;
+      margin: 10px;
+      text-shadow: 1px 1px 2px white;
+    }
+    .enter-button:hover, .new-buttons:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+    }
+    .hidden {
+      display: none;
+    }
+    .fleet-title-container {
+      text-align: center;
+      padding: 20px;
+      background-color: rgba(0, 0, 0, 0.5);
+    }
+    .message {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-family: Arial, sans-serif;
+      font-size: 2em;
+      color: #ffd700;
+      background-color: rgba(0, 0, 0, 0.5);
+      padding: 20px;
+      text-align: center;
+      border-radius: 10px;
+    }
+    .new-buttons-container {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+    }
+    .new-buttons-container button {
+      display: block;
+      margin: 20px auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="logo">[SSR] Second Star to the Right</div>
+    <div class="description">Welcome to our fleet website. Here you will find all the facts about us,<br> including our history, officer list, fleet requirements and more.</div>
+    <button class="enter-button" style="background-color: #00008B;">Go to Fleet Page</button>
+  </div>
+  <div class="fleet-title-container hidden">
+    <div class="logo">[SSR] Second Star to the Right</div>
+  </div>
+  <div class="new-buttons-container hidden">
+    <button class="new-buttons" id="fleet-history">Fleet History</button>
+    <button class="new-buttons" id="fleet-officers">Fleet Officers</button>
+    <button class="new-buttons" id="fleet-requirements">Fleet Requirements</button>
+    <button class="new-buttons" id="back-to-main">Back to Main Menu</button>
+  </div>
+  <div id="message" class="hidden message"></div>
+  <script>
+    document.querySelector('.enter-button').addEventListener('click', () => {
+      document.querySelector('.container').classList.add('hidden');
+      document.querySelector('.fleet-title-container').classList.remove('hidden');
+      document.querySelector('.new-buttons-container').classList.remove('hidden');
+    });
+
+    document.querySelector('#fleet-history').addEventListener('click', () => {
+      document.querySelector('.new-buttons-container').classList.add('hidden');
+      const messageElement = document.querySelector('#message');
+      messageElement.textContent = "Fleet History is Under Construction";
+      messageElement.classList.remove('hidden');
+      addReturnToMenuButton(messageElement);
+    });
+
+    document.querySelector('#fleet-officers').addEventListener('click', () => {
+      document.querySelector('.new-buttons-container').classList.add('hidden');
+      const messageElement = document.querySelector('#message');
+      messageElement.textContent = "Fleet Officers is Under Construction";
+      messageElement.classList.remove('hidden');
+      addReturnToMenuButton(messageElement);
+    });
+
+    document.querySelector('#fleet-requirements').addEventListener('click', () => {
+      document.querySelector('.new-buttons-container').classList.add('hidden');
+      const messageElement = document.querySelector('#message');
+      messageElement.textContent = "Fleet Requirements is Under Construction";
+      messageElement.classList.remove('hidden');
+      addReturnToMenuButton(messageElement);
+    });
+
+    document.querySelector('#back-to-main').addEventListener('click', () => {
+      document.querySelector('.new-buttons-container').classList.add('hidden');
+      document.querySelector('#message').classList.add('hidden');
+      document.querySelector('.fleet-title-container').classList.add('hidden');
+      document.querySelector('.container').classList.remove('hidden');
+    });
+
+    function addReturnToMenuButton(messageElement) {
+      const returnButton = document.createElement('button');
+      returnButton.className = 'new-buttons';
+      returnButton.textContent = 'Return to Menu';
+      returnButton.addEventListener('click', () => {
+        document.querySelector('#message').classList.add('hidden');
+        document.querySelector('.new-buttons-container').classList.remove('hidden');
+        returnButton.remove();
+      });
+      messageElement.appendChild(returnButton);
+      returnButton.style.marginTop = '20px';
+      returnButton.style.display = 'block';
+      returnButton.style.marginLeft = 'auto';
+      returnButton.style.marginRight = 'auto';
+    }
+  </script>
+</body>
+</html>
