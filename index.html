@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[SSR] Second Star to the Right</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        background-color: #0a0a1a;
+        color: white;
+        overflow-y: auto;
+      }
+
+      .container {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        gap: 20px;
+      }
+
+      .logo {
+        font-family: Arial, sans-serif;
+        font-size: 40pt;
+        color: #ffd700;
+        background-color: rgba(0, 0, 0, 0.5);
+        padding: 20px;
+        text-shadow: 2px 2px 5px #000;
+      }
+
+      .logo-image {
+        max-width: 95%;
+        max-height: 55vh;
+        display: block;
+        margin: 0 auto;
+      }
+
+      .description {
+        font-size: 1.6em;
+      }
+
+      .enter-button {
+        padding: 15px 30px;
+        font-size: 1.2em;
+        font-family: Arial, sans-serif;
+        background: linear-gradient(to bottom, #000000, #2c2c2c);
+        color: #ffd700;
+        border: 1px solid white;
+        border-radius: 10px;
+        cursor: pointer;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        transition: all 0.3s ease;
+        margin: 10px;
+        text-shadow: 1px 1px 2px white;
+      }
+
+      .enter-button:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+      }
+
+      .hidden {
+        display: none;
+      }
+
+      .fleet-title-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 20px auto;
+        font-size: 32px;
+        color: #ffd700;
+        font-weight: bold;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+        background-color: rgba(0, 0, 0, 0.5);
+        padding: 15px;
+        border-radius: 8px;
+        max-width: 80%;
+        text-align: center;
+      }
+
+      .fleet-buttons-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        gap: 15px;
+        margin: 20px auto;
+        max-width: 90%;
+        padding: 10px;
+      }
+
+      .fleet-buttons-container .new-buttons {
+        padding: 10px 15px;
+        font-size: 1em;
+        background: rgba(0, 0, 0, 0.5);
+        color: #ffd700;
+        border: 1px solid white;
+        border-radius: 10px;
+        cursor: pointer;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        transition: all 0.3s ease;
+        width: calc(30% - 20px);
+        height: 120px;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+      }
+
+      .fleet-buttons-container .new-buttons::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('https://raw.githubusercontent.com/BigBird7827/SSR-Welcome/refs/heads/main/Enterprise%20for%20Background.png');
+        background-size: cover;
+        background-position: center;
+        opacity: 0.3;
+        z-index: 0;
+      }
+
+      .fleet-buttons-container .new-buttons:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+      }
+
+      .fleet-buttons-container .new-buttons span {
+        position: relative;
+        z-index: 1;
+        color: #ffd700;
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.9), -1px -1px 2px rgba(255, 255, 255, 0.2);
+      }
+
+      #back-to-main {
+        padding: 15px 30px;
+        font-size: 1.2em;
+        font-family: Arial, sans-serif;
+        background: linear-gradient(to bottom, #000000, #2c2c2c);
+        color: #ffd700;
+        border: 1px solid white;
+        border-radius: 10px;
+        cursor: pointer;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        text-shadow: 1px 1px 2px white;
+        transition: all 0.3s ease;
+        display: block;
+        margin: 15px auto;
+        width: calc(30% - 20px);
+        text-align: center;
+      }
+
+      #back-to-main:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+      }
+
+      .fleet-buttons-container::-webkit-scrollbar {
+        width: 8px;
+      }
+
+      .fleet-buttons-container::-webkit-scrollbar-thumb {
+        background: #ffd700;
+        border-radius: 4px;
+      }
+
+      .fleet-buttons-container::-webkit-scrollbar-track {
+        background: rgba(0, 0, 0, 0.5);
+      }
+
+      #message {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        height: 100vh;
+        padding: 0;
+        box-sizing: border-box;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: contain;
+      }
+
+      .message .title {
+        font-family: Orbiton, sans-serif;
+        font-size: 32pt;
+        color: #ffd700;
+        position: absolute;
+        top: 25px;
+        left: 50%;
+        transform: translateX(-50%);
+        text-align: center;
+        width: auto;
+        background-color: rgba(0, 0, 0, 0.5);
+        padding: 10px;
+        border-radius: 8px;
+      }
+
+      .message .content {
+  font-size: 18pt;
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 8px;
+  display: inline-block;
+  max-width: 90%;
+}
+
+      .starbase-image {
+        display: none;
+        width: 90%;
+        height: auto;
+        max-height: 60vh;
+        margin: 0 auto;
+      }
+
+      .return-button {
+        padding: 15px 30px;
+        font-size: 1.2em;
+        font-family: Arial, sans-serif;
+        background: linear-gradient(to bottom, #000000, #2c2c2c);
+        color: #ffd700;
+        border: 1px solid white;
+        border-radius: 10px;
+        cursor: pointer;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        text-shadow: 1px 1px 2px white;
+        display: block;
+        margin: 20px auto;
+        text-align: center;
+        width: auto;
+        transition: all 0.3s ease;
+      }
+
+      .return-button:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="logo">[SSR] Second Star to the Right</div>
+      <img class="logo-image" src="https://raw.githubusercontent.com/BigBird7827/SSR-Welcome/refs/heads/main/SSR%20Logo.png" alt="SSR Logo">
+      <a href="https://youtu.be/LvMkk5_FOQ4?si=haLiWh13BEjOjbZK" target="_blank" style="color: limegreen; font-size: 1.2em;">Watch Our Recruiting Video</a>
+      <div class="description">Welcome to our fleet website. Here you will find all the facts about us, <br> including our history, officer list, fleet requirements and more. </div>
+      <button class="enter-button" style="background-color: #00008B;">Go to Fleet Page</button>
+    </div>
+    <div class="fleet-title-container hidden">
+      <div class="logo">[SSR] Second Star to the Right</div>
+    </div>
+    <div class="fleet-buttons-container hidden">
+      <button class="new-buttons" id="Fleet Information"><span>Fleet Information</span></button>
+      <button class="new-buttons" id="Squadron Policy"><span>Squadron Policy</span></button>
+      <button class="new-buttons" id="Membership Requirements"><span>Membership Requirements</span></button>
+      <button class="new-buttons" id="Honor Hall"><span>Honor Hall</span></button>
+      <button class="new-buttons" id="Full Membership Promotions"><span>Full Membership Promotions</span></button>
+      <button class="new-buttons" id="Event Winners"><span>Event Winners</span></button>
+      <button class="new-buttons" id="Fleet Event Rankings"><span>Fleet Event Rankings</span></button>
+      <button class="new-buttons" id="Starbase Progress"><span>Starbase Progress</span></button>
+      <button class="new-buttons" id="Datacore and BigBook Links"><span>Datacore and BigBook Links</span></button>
+      <button class="new-buttons full-width" id="back-to-main"><span>Back to Main Menu</span></button>
+    </div>
+    <div id="message" class="message hidden">
+      <img class="starbase-image" src="https://raw.githubusercontent.com/BigBird7827/SSR-Welcome/refs/heads/main/Starbase%20Progression%20(updated).png" alt="Starbase Progression">
+      <div class="title" id="message-title"></div>
+      <div class="content" id="message-subtitle"></div>
+      <button class="return-button" id="return-to-fleet">Return to Fleet Info Page</button>
+    </div>
+    <div id="event-winners" class="hidden">
+      <h1 class="event-winners-title">Event Winners</h1>
+      <div id="event-winners-content"></div>
+      <button class="return-button" id="return-to-fleet-info">Return to Fleet Info Page</button>
+    </div>
+    <script>
+      document.addEventListener('DOMContentLoaded', async function () {
+  const DATA_URL = 'https://raw.githubusercontent.com/BigBird7827/SSR-Welcome/refs/heads/main/SSR%20Fleet%20Data.json';
+  const EVENT_WINNERS_URL = 'https://raw.githubusercontent.com/BigBird7827/SSR-Welcome/refs/heads/main/Fleet%20Event%20Winners.json';
+  let fleetData = {};
+  let eventWinnersData = [];
+
+  const fetchData = async () => {
+    const response = await fetch(DATA_URL);
+    const data = await response.json();
+    if (Array.isArray(data) && data.length > 0 && typeof data[0] === 'object') {
+      fleetData = data[0];
+    }
+  };
+
+  const fetchEventWinnersData = async () => {
+    const response = await fetch(EVENT_WINNERS_URL);
+    eventWinnersData = await response.json();
+  };
+
+  const hideAllSections = () => {
+    document.querySelector('.container').style.display = 'none';
+    document.querySelector('.fleet-title-container').style.display = 'none';
+    document.querySelector('.fleet-buttons-container').style.display = 'none';
+    document.querySelector('#message').style.display = 'none';
+    document.querySelector('#event-winners').style.display = 'none';
+  };
+
+  const showFleetPage = () => {
+    hideAllSections();
+    document.body.classList.remove('fleet-detail-bg');
+    document.querySelector('.fleet-title-container').style.display = 'flex';
+    document.querySelector('.fleet-buttons-container').style.display = 'flex';
+  };
+
+  const showMessage = (buttonId) => {
+    hideAllSections();
+    const messageTitle = document.querySelector('#message-title');
+    const messageSubtitle = document.querySelector('#message-subtitle');
+    const starbaseImage = document.querySelector('.starbase-image');
+    const returnToFleetButton = document.querySelector('#return-to-fleet');
+
+    document.body.classList.add('fleet-detail-bg');
+
+    messageTitle.textContent = buttonId;
+    starbaseImage.style.display = 'none';
+    messageSubtitle.innerHTML = '';
+
+    if (buttonId === 'Starbase Progress') {
+      messageTitle.textContent = buttonId;
+      starbaseImage.style.display = 'block';
+      messageSubtitle.textContent = '';
+    } else if (buttonId === 'Datacore and BigBook Links') {
+      messageSubtitle.innerHTML = `
+        <h3>These links open in a new window - Close the browser window to return</h3>
+        <ul style="list-style-type: none; padding: 0;">
+          <li><a href="https://datacore.app/" target="_blank" style="color: limegreen; font-size: 1.2em;">DataCore</a></li>
+          <li><a href="https://bigbook.app/" target="_blank" style="color: limegreen; font-size: 1.2em;">BigBook</a></li>
+          <li id="leaderboard-link"><a href="https://bigbook.app/event/450" target="_blank" style="color: limegreen; font-size: 1.2em;">BigBook Event Leaderboard</a></li>
+        </ul>
+      `;
+    } else if (fleetData[buttonId]) {
+      const paragraphs = fleetData[buttonId].split('\n\n');
+      paragraphs.forEach((paragraph) => {
+        const pElement = document.createElement('p');
+        pElement.textContent = paragraph;
+        messageSubtitle.appendChild(pElement);
+      });
+    } else {
+      messageSubtitle.textContent = 'This section is under construction.';
+    }
+
+    returnToFleetButton.style.display = 'block';
+    returnToFleetButton.style.position = 'relative';
+    returnToFleetButton.style.margin = '20px auto';
+
+    document.querySelector('#message').style.display = 'flex';
+  };
+
+  const showEventWinners = async () => {
+    hideAllSections();
+    await fetchEventWinnersData();
+    const eventWinnersContainer = document.querySelector('#event-winners-content');
+    eventWinnersContainer.innerHTML = '';
+    eventWinnersData.forEach((event) => {
+      const eventItem = document.createElement('div');
+      eventItem.classList.add('event-item');
+      eventItem.innerHTML = `
+        <img src="${event['Event Image']}" alt="Event Image">
+        <h2>Winner: ${event['Name']}</h2>
+        <p>Event Type: ${event['Event Type']}</p>
+        <p>Dates: ${event['Dates']}</p>
+        <p>Total VP: ${event['Total VP']}</p>
+      `;
+      eventWinnersContainer.appendChild(eventItem);
+    });
+    document.body.classList.add('fleet-detail-bg');
+    const eventWinnersSection = document.querySelector('#event-winners');
+    eventWinnersSection.style.display = 'flex';
+    eventWinnersSection.style.flexDirection = 'column';
+    eventWinnersSection.style.alignItems = 'center';
+    eventWinnersSection.style.justifyContent = 'center';
+    eventWinnersSection.style.textAlign = 'center';
+    window.scrollTo(0, 0);
+    setTimeout(() => {
+      const returnButton = document.querySelector('#return-to-fleet-info');
+      returnButton.style.display = 'block';
+      returnButton.style.position = 'fixed';
+      returnButton.style.top = '20px';
+      returnButton.style.left = '20px';
+      returnButton.style.transform = 'none';
+    }, 0);
+  };
+
+  const updateLeaderboardLink = () => {
+    const leaderboardLink = document.querySelector('#leaderboard-link a');
+    if (leaderboardLink) {
+      let currentEventNumber = parseInt(localStorage.getItem('eventNumber')) || 450;
+      const today = new Date();
+      const isThursday = today.getDay() === 4;
+      const isNineAM = today.getHours() === 9 && today.getMinutes() === 0;
+      if (isThursday && isNineAM) {
+        currentEventNumber += 1;
+        localStorage.setItem('eventNumber', currentEventNumber);
+        leaderboardLink.href = `https://bigbook.app/event/${currentEventNumber}`;
+      }
+    }
+  };
+
+  setInterval(updateLeaderboardLink, 86400000);
+
+  await fetchData();
+
+  document.querySelector('.enter-button').addEventListener('click', showFleetPage);
+  document.querySelector('#back-to-main').addEventListener('click', () => {
+    hideAllSections();
+    document.querySelector('.container').style.display = 'flex';
+  });
+
+  document.querySelectorAll('.fleet-buttons-container .new-buttons:not(#back-to-main)').forEach((button) => {
+    const buttonId = button.id;
+    if (buttonId === 'Event Winners') {
+      button.addEventListener('click', showEventWinners);
+    } else {
+      button.addEventListener('click', () => showMessage(buttonId));
+    }
+  });
+
+  document.querySelector('#return-to-fleet-info').addEventListener('click', showFleetPage);
+  document.querySelector('#return-to-fleet').addEventListener('click', showFleetPage);
+});
+    </script>
+  </body>
+</html>
