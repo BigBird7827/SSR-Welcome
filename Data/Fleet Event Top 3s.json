@@ -1,0 +1,1730 @@
+[
+  {
+    "Fleet Rank": "2",
+    "Start Date": "October 12, 2017",
+    "Event Name": "First Impressions",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_first_impressions_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "November 22, 2017",
+    "Event Name": "Fast As Light",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fast_as_light_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "January 11, 2018",
+    "Event Name": "Infinite Contentions",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_infinite_contentions_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "April 19, 2018",
+    "Event Name": "Fire With Fire",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fire_with_fire_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "April 26, 2018",
+    "Event Name": "Reunification",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_reunification_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "May 31, 2018",
+    "Event Name": "Catching Fire",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_catching_fire_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "June 7, 2018",
+    "Event Name": "Turning Point",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_turning_point_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "July 12, 2018",
+    "Event Name": "Haunted Vessels",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_haunted_vessels_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "November 1, 2018",
+    "Event Name": "The Captain's Oath 2",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_captains_oath_rerun_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "December 20, 2018",
+    "Event Name": "Auld Lang Syne",
+    "Event Type": "Hybrid - Skirmish / Expedition",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_auldlangsyne_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "January 17, 2019",
+    "Event Name": "To Prove One's Self",
+    "Event Type": "Hybrid - Skirmish / Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hsfe_toproveonesself_r0_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "March 14, 2019",
+    "Event Name": "Fixed Variables",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_fixedvariables_r0_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "April 18, 2019",
+    "Event Name": "In Word and Deed",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_inwordanddeed_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "May 2, 2019",
+    "Event Name": "Extinction Point 2",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_extinctionpoint_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "May 23, 2019",
+    "Event Name": "Integration",
+    "Event Type": "Hybrid - Faction / Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfse_intregration_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "June 6, 2019",
+    "Event Name": "Crimson Spark",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_crimsonspark_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "June 13, 2019",
+    "Event Name": "Reconstruction",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_reconstruction_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "June 20, 2019",
+    "Event Name": "Time Tsunami",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_timetsunami_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "July 25, 2019",
+    "Event Name": "Run Rampant",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_runrampant_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "August 15, 2019",
+    "Event Name": "The Nowhere Gauntlet",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_thenowheregauntlet_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "October 17, 2019",
+    "Event Name": "Friends Like These",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_friendslikethese_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "November 14, 2019",
+    "Event Name": "For Charity",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_forcharity_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "January 02, 2020",
+    "Event Name": "The Longest Day 2",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_the_longest_day_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "January 30, 2020",
+    "Event Name": "The Game's Afoot 3",
+    "Event Type": "Expedition",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ee_thegamesafoot_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "February 6, 2020",
+    "Event Name": "Beyond the Veil",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_beyondtheveil_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "February 20, 2020",
+    "Event Name": "Phantom Pain",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_phantompain_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "March 05, 2020",
+    "Event Name": "Dirty Rotten Holograms 2",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_dirtyrottenholograms_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "March 12, 2020",
+    "Event Name": "The Enemy Within",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_theenemywithin_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "March 26, 2020",
+    "Event Name": "Roj",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_roj_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "April 16, 2020",
+    "Event Name": "Seekers of Life",
+    "Event Type": "Hybrid - Faction / Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfse_seekersoflife_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "May 21, 2020",
+    "Event Name": "Runaway Bride",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_runawaybride_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "June 11, 2020",
+    "Event Name": "Small Mercies",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_smallmercies_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "June 18, 2020",
+    "Event Name": "A Web of Lies",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_aweboflies_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "July 23, 2020",
+    "Event Name": "Sto'Vo'Kor Lost",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hsge_stovokorlost_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "September 17, 2020",
+    "Event Name": "In Taste Confounds",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_intasteconfounds_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "October 08, 2020",
+    "Event Name": "The Noblest Half",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_thenoblesthalf_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "October 29, 2020",
+    "Event Name": "Sha Ka Ree",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_shakaree_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "November 12, 2020",
+    "Event Name": "A Night at the Theater",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_anightatthetheater_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "November 19, 2020",
+    "Event Name": "Insurrection Omega",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_insurrectionomega_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "November 26, 2020",
+    "Event Name": "The Big Sting 3",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_the_big_sting_2020_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "December 17, 2020",
+    "Event Name": "A Stitch Saves Nine",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_astitchsavesnine_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "March 4, 2021",
+    "Event Name": "A Brute Squad 3",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_abrutesquad_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "March 11, 2021",
+    "Event Name": "Baby Boom",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_babyboom_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "March 18, 2021",
+    "Event Name": "Under New Management",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_undernewmanagement_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "March 25, 2021",
+    "Event Name": "Guiding Principles 3",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_guidingprinciples_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "April 1, 2021",
+    "Event Name": "The First Hours",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_thefirsthours_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "April 15, 2021",
+    "Event Name": "A Pied Piper",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_apiedpiper_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "May 27, 2021",
+    "Event Name": "Isthmian Games 3",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_the_isthmian_games_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "June 03, 2021",
+    "Event Name": "A Good Lead",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_agoodlead_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "June 10, 2021",
+    "Event Name": "Playing Hardball",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_playinghardball_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "July 15, 2021",
+    "Event Name": "All for One",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_allforone_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "July 29, 2021",
+    "Event Name": "The Captain's Oath 3",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_thecaptainsoath_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "August 5, 2021",
+    "Event Name": "The Mad Lieutenant",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_themadlieutenant_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "August 12, 2021",
+    "Event Name": "It's The Fuzz!",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_itsthefuzz_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "August 26, 2021",
+    "Event Name": "A Bed Of Mushrooms",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_abedofmushrooms_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "September 2, 2021",
+    "Event Name": "For Charity 2",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_forcharity_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "September 23, 2021",
+    "Event Name": "Eye of the Storm",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_eyeofthestorm_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "October 07, 2021",
+    "Event Name": "The Miracles They Deserve",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_themiraclestheydeserve_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "October 14, 2021",
+    "Event Name": "Renegade Wishes",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_renegadewishes_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "October 28, 2021",
+    "Event Name": "The Surface of Dashed Hopes",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_thesurfaceofdashedhopes_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "November 4, 2021",
+    "Event Name": "Barren Heat 2",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_barrenheat_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "November 11, 2021",
+    "Event Name": "Looted Boxes",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_lootedboxes_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "November 18, 2021",
+    "Event Name": "A Measure of Valor",
+    "Event Type": "Hybrid - Faction / Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfse_a_measure_of_valor_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "December 2, 2021",
+    "Event Name": "Scars of History",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_scarsofhistory_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "December 23, 2021",
+    "Event Name": "Flying for the Future",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_convergence_day_2021_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "December 30, 2021",
+    "Event Name": "Stream of Lives 2",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_streamoflives_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "January 06, 2022",
+    "Event Name": "Disaffect and Divergence",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_disaffectanddivergence_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "January 13, 2022",
+    "Event Name": "Convergence Day 3",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_convergence_day_2021_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "January 20, 2022",
+    "Event Name": "Radio Silence",
+    "Event Type": "Hybrid - Galaxy / Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hgfe_radiosilence_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "January 27, 2022",
+    "Event Name": "Right on Q 2",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_rightonq_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "February 3, 2022",
+    "Event Name": "Starship Scramble",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_starshipscramble_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "February 10, 2022",
+    "Event Name": "Closing the Distance",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_closingthedistance_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "February 17, 2022",
+    "Event Name": "Chaos and Confusion",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_chaosandconfusion_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "March 10, 2022",
+    "Event Name": "Memories of Midnight",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_memoriesofmidnight_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "March 17, 2022",
+    "Event Name": "Building a New World",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_buildinganewworld_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "March 24, 2022",
+    "Event Name": "Symbiosis",
+    "Event Type": "Hybrid - Skirmish / Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hsfe_symbiosis_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "April 07, 2022",
+    "Event Name": "Cracked Chronos",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_crackedchronos_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "April 14, 2022",
+    "Event Name": "Terran Nights",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_terrannights_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "April 21, 2022",
+    "Event Name": "Shattered",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_shattered_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "May 5, 2022",
+    "Event Name": "Medicine for Mayhem",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_medicineformayhem_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "May 12, 2022",
+    "Event Name": "In Taste Confounds 2",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_intasteconfounds_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "May 19, 2022",
+    "Event Name": "Battle Ready",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_battleready_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "May 26, 2022",
+    "Event Name": "The Need for Speed 2",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_theneedforspeed_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "June 2, 2022",
+    "Event Name": "Blight",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_blight_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "June 09, 2022",
+    "Event Name": "Pruned",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_pruned_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "June 16, 2022",
+    "Event Name": "Apoptosis",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_apoptosis_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "June 23, 2022",
+    "Event Name": "Pluripotency",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_pluripotency_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "June 30, 2022",
+    "Event Name": "Cosmic Condo",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_cosmiccondo_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "July 07, 2022",
+    "Event Name": "New Expansions",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_newexpansions_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "July 14, 2022",
+    "Event Name": "Beacons",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_beacons_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "July 21, 2022",
+    "Event Name": "Boogeyman",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_boogeyman_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "July 28, 2022",
+    "Event Name": "Looted Boxes 2",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_lootedboxes_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "August 4, 2022",
+    "Event Name": "Charitable Chaos",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_charitablechaos_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "August 11, 2022",
+    "Event Name": "Bitter Bytes",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_bitterbytes_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "August 18, 2022",
+    "Event Name": "Busy Work",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_busywork_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "August 25, 2022",
+    "Event Name": "Outside the Box",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_outsidethebox_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "September 1, 2022",
+    "Event Name": "Joyride",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_joyride_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "September 08, 2022",
+    "Event Name": "Holo Business",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_holobusiness_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "September 15, 2022",
+    "Event Name": "Relieved",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_relieved_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "September 22, 2022",
+    "Event Name": "Never Meet Your Heroes",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_nevermeetyourheroes_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "September 29, 2022",
+    "Event Name": "Sto'Vo'Kor Lost 2",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hsge_stovokorlost_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "October 06, 2022",
+    "Event Name": "Playtime",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_playtime_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "October 13, 2022",
+    "Event Name": "Living a Legend",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_livingalegend_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "October 20, 2022",
+    "Event Name": "Dramatic Relations",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_dramaticrelations_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "October 27, 2022",
+    "Event Name": "Enemies to Allies",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_enemiestoallies_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "November 3, 2022",
+    "Event Name": "Never to Return",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_nevertoreturn_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "November 10, 2022",
+    "Event Name": "Barking on the Bridge",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_barkingonthebridge_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "November 17, 2022",
+    "Event Name": "Lucidum Finalis",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_lucidumfinalis_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "November 24, 2022",
+    "Event Name": "Varied Tales",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_variedtales_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "December 1, 2022",
+    "Event Name": "A Night at the Theater 2",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_anightatthetheater_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "December 08, 2022",
+    "Event Name": "Slipping Stream",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_slippingstream_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "December 15, 2022",
+    "Event Name": "Here Today, Where Tomorrow?",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_heretodaywheretomorrow_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "December 22, 2022",
+    "Event Name": "Outer Limits",
+    "Event Type": "Hybrid - Skirmish / Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hsfe_outerlimits_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "December 29, 2022",
+    "Event Name": "Fractured Dawn",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_fractureddawn_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "January 5, 2023",
+    "Event Name": "Baby Boom 2",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_babyboom_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "January 12, 2023",
+    "Event Name": "It's Been A Long Road",
+    "Event Type": "Hybrid - Skirmish / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hsge_itsbeenalongroad_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "January 19, 2023",
+    "Event Name": "Be Our Guests",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_beourguests_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "January 26, 2023",
+    "Event Name": "Linear Time",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_lineartime_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "February 2, 2023",
+    "Event Name": "Happily Never After",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_happilyneverafter_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "February 09, 2023",
+    "Event Name": "Holo Business 2",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_holobusiness_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "February 16, 2023",
+    "Event Name": "A Thousand Lifetimes",
+    "Event Type": "Hybrid - Skirmish / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hsge_athousandlifetimes_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "February 23, 2023",
+    "Event Name": "The Finer Things",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_thefinerthings_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "March 2, 2023",
+    "Event Name": "Fanning the Flames",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_fanningtheflames_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "March 09, 2023",
+    "Event Name": "Backdraft",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_backdraft_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "March 16, 2023",
+    "Event Name": "Straight On Til Morning 2",
+    "Event Type": "Hybrid - Skirmish / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_straight_on_til_morning_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "March 23, 2023",
+    "Event Name": "Yo-Ho!",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_yoho_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "March 30, 2023",
+    "Event Name": "Weaving a Tale",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_weavingatale_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "April 06, 2023",
+    "Event Name": "One Incredible Tale 4",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_one_incredible_tale_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "April 13, 2023",
+    "Event Name": "Sub-Zero",
+    "Event Type": "Hybrid - Skirmish / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hsge_subzero_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "April 20, 2023",
+    "Event Name": "Half-Life",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_halflife_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "April 27, 2023",
+    "Event Name": "Assimulated",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_assimulated_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "May 04, 2023",
+    "Event Name": "Waking Nightmare",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_wakingnightmare_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "May 11, 2023",
+    "Event Name": "Medicine for Mayhem 2",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_medicineformayhem_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "May 18, 2023",
+    "Event Name": "Janeway Was...",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_janewaywas_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "May 25, 2023",
+    "Event Name": "Barking on the Bridge 2",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_barkingonthebridge_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "June 01, 2023",
+    "Event Name": "Battle Ready 2",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_battleready_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "June 08, 2023",
+    "Event Name": "Frost",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_frost_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "June 15, 2023",
+    "Event Name": "Cracks",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_cracks_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "June 22, 2023",
+    "Event Name": "Thaw",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_thaw_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "June 29, 2023",
+    "Event Name": "Ignite",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_ignite_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "July 06, 2023",
+    "Event Name": "Forests of Forever 2",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_forestsofforever_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "July 13, 2023",
+    "Event Name": "Pecking Order",
+    "Event Type": "Hybrid - Skirmish / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hsge_peckingorder_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "July 20, 2023",
+    "Event Name": "The Risk of Responsibility",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_theriskofresponsibility_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "July 27, 2023",
+    "Event Name": "People of Influence",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_peopleofinfluence_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "August 03, 2023",
+    "Event Name": "Relieved 2",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_relieved_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "August 10, 2023",
+    "Event Name": "Rest and Revelation",
+    "Event Type": "Hybrid - Skirmish / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hsge_restandrevelation_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "August 17, 2023",
+    "Event Name": "Last Resort",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_lastresort_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "August 24, 2023",
+    "Event Name": "Self-Care",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_selfcare_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "August 31, 2023",
+    "Event Name": "Fish in a Barrel",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_fishinabarrel_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "September 07, 2023",
+    "Event Name": "Integration 2",
+    "Event Type": "Hybrid - Faction / Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfse_integration_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "September 14, 2023",
+    "Event Name": "Criminal Mischief",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_criminalmischief_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "September 21, 2023",
+    "Event Name": "Throw the Book At 'Em",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_throwthebookatem_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "September 28, 2023",
+    "Event Name": "Holo Reality",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_holoreality_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "October 05, 2023",
+    "Event Name": "Biological Imperatives 2",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_biologicalimperatives_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "October 12, 2023",
+    "Event Name": "Screaming Into the Void!",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_screamingintothevoid_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "October 19, 2023",
+    "Event Name": "The Unknown",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_theunknown_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "October 26, 2023",
+    "Event Name": "Uncanny Valley",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_uncannyvalley_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "November 02, 2023",
+    "Event Name": "Sandman",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_sandman_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "November 09, 2023",
+    "Event Name": "Baby Boom 3",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_babyboom_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "November 16, 2023",
+    "Event Name": "Trouble on Tap",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_troubleontap_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "November 23, 2023",
+    "Event Name": "Syndicated",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_syndicated_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "November 30, 2023",
+    "Event Name": "Bedside Manner",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_bedsidemanner_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "December 07, 2023",
+    "Event Name": "Building a New World 2",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_buildinganewworld_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "December 14, 2023",
+    "Event Name": "Defensive Flying",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_defensiveflying_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "December 21, 2023",
+    "Event Name": "Many Splendid Things",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_guiltyascharged_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "December 28, 2023",
+    "Event Name": "Temporal Discord",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_temporaldiscord_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "January 04, 2024",
+    "Event Name": "The Balance of Fortune",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_thebalanceoffortune_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "January 11, 2024",
+    "Event Name": "The Path Less Traveled",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_thepathlesstraveled_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "January 18, 2024",
+    "Event Name": "Continuing Mission",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_continuingmission_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "January 25, 2024",
+    "Event Name": "Delight in Difference",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_delightindifference_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "February 01, 2024",
+    "Event Name": "New Life",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_newlife_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "February 08, 2024",
+    "Event Name": "The Best of All Worlds",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_thebestofallworlds_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "February 15, 2024",
+    "Event Name": "Runaway Bride 2",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_runawaybride_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "February 22, 2024",
+    "Event Name": "Starcrossed",
+    "Event Type": "Hybrid - Galaxy / Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hgse_starcrossed_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "February 29, 2024",
+    "Event Name": "Enemies Closer",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_enemiescloser_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "March 07, 2024",
+    "Event Name": "Common Ground",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_commonground_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "March 14, 2024",
+    "Event Name": "To a Pulp",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_toapulp_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "March 21, 2024",
+    "Event Name": "Sleeping Giants",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_sleepinggiants_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "March 28, 2024",
+    "Event Name": "Peldor Joi 2",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_peldor_joi_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "April 04, 2024",
+    "Event Name": "The Magnificent Ferengi",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_magnificentferengi_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "April 11, 2024",
+    "Event Name": "The Darkest Timeline",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_thedarkesttimeline_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "April 18, 2024",
+    "Event Name": "Unique Offerings",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_uniqueofferings_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "April 25, 2024",
+    "Event Name": "Flight Makes Right",
+    "Event Type": "Hybrid - Skirmish / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hsge_flightmakesright_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "May 02, 2024",
+    "Event Name": "Meant to be Broken",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_meanttobebroken_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "May 09, 2024",
+    "Event Name": "Off the Clock",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_offtheclock_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "May 16, 2024",
+    "Event Name": "Pecking Order 2",
+    "Event Type": "Hybrid - Skirmish / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hsge_peckingorder_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "May 23, 2024",
+    "Event Name": "Wherever You Will Go",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_whereveryouwillgo_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "May 30, 2024",
+    "Event Name": "Visions",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_visions_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "June 06, 2024",
+    "Event Name": "Missing Pieces",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_missingpieces_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "June 13, 2024",
+    "Event Name": "Old Friends",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_oldfriendsnewenemies_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "June 20, 2024",
+    "Event Name": "On the Hunt",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_hfge_onthehunt_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "June 27, 2024",
+    "Event Name": "Here We Go Again",
+    "Event Type": "Faction",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_fe_herewegoagain_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "July 04, 2024",
+    "Event Name": "Weaving a Tale 2",
+    "Event Type": "Galaxy",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_ge_weavingatale_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "July 11, 2024",
+    "Event Name": "Fire in the Sky",
+    "Event Type": "Skirmish",
+    "Best Finish": "",
+    "Event Image": "https://assets.datacore.app/events_se_fireinthesky_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "July 18, 2024",
+    "Event Name": "Best Served Cold",
+    "Event Type": "Faction",
+    "Best Finish": "https://bigbook.app/captain/5791194",
+    "Event Image": "https://assets.datacore.app/events_fe_bestservedcold_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "July 25, 2024",
+    "Event Name": "Never to Return 2",
+    "Event Type": "Skirmish",
+    "Best Finish": "https://bigbook.app/captain/5910149",
+    "Event Image": "https://assets.datacore.app/events_se_nevertoreturn_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "August 01, 2024",
+    "Event Name": "Fleeting Glory",
+    "Event Type": "Hybrid - Skirmish / Galaxy",
+    "Best Finish": "https://bigbook.app/captain/6209343",
+    "Event Image": "https://assets.datacore.app/events_hsge_fleetingglory_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "August 08, 2024",
+    "Event Name": "In Stellar Shape",
+    "Event Type": "Galaxy",
+    "Best Finish": "https://bigbook.app/captain/4503983",
+    "Event Image": "https://assets.datacore.app/events_ge_instellarshape_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "August 15, 2024",
+    "Event Name": "Only the Strong",
+    "Event Type": "Faction",
+    "Best Finish": "https://bigbook.app/captain/5791194",
+    "Event Image": "https://assets.datacore.app/events_fe_onlythestrong_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "August 22, 2024",
+    "Event Name": "To The Limit",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "https://bigbook.app/captain/4718368",
+    "Event Image": "https://assets.datacore.app/events_hfge_tothelimit_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "August 29, 2024",
+    "Event Name": "Throw the Book At 'Em 2",
+    "Event Type": "Faction",
+    "Best Finish": "https://bigbook.app/captain/1145687",
+    "Event Image": "https://assets.datacore.app/events_fe_throwthebookatem_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "September 05, 2024",
+    "Event Name": "Structural Integrity",
+    "Event Type": "Galaxy",
+    "Best Finish": "https://bigbook.app/captain/4503983",
+    "Event Image": "https://assets.datacore.app/events_ge_structuralintegrity_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "September 12, 2024",
+    "Event Name": "To Boldly Go",
+    "Event Type": "Skirmish",
+    "Best Finish": "https://bigbook.app/captain/5791194",
+    "Event Image": "https://assets.datacore.app/events_se_toboldlygo_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "September 19, 2024",
+    "Event Name": "Ye Olde Space Opera",
+    "Event Type": "Hybrid - Voyage / Skirmish",
+    "Best Finish": "https://bigbook.app/captain/5910149",
+    "Event Image": "https://assets.datacore.app/events_hvse_yeoldespaceopera_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "September 26, 2024",
+    "Event Name": "Leap in Logic",
+    "Event Type": "Faction",
+    "Best Finish": "https://bigbook.app/captain/5791194",
+    "Event Image": "https://assets.datacore.app/events_fe_leapinlogic_event.png"
+  },
+  {
+    "Fleet Rank": "2",
+    "Start Date": "October 03, 2024",
+    "Event Name": "Whispers in the Dark",
+    "Event Type": "Galaxy",
+    "Best Finish": "https://bigbook.app/captain/4503983",
+    "Event Image": "https://assets.datacore.app/events_ge_whispersinthedark_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "October 10, 2024",
+    "Event Name": "Divine Insight",
+    "Event Type": "Hybrid - Faction / Skirmish",
+    "Best Finish": "https://bigbook.app/captain/236734",
+    "Event Image": "https://assets.datacore.app/events_hfse_divineinsight_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "October 17, 2024",
+    "Event Name": "Stowaway",
+    "Event Type": "Hybrid - Voyage / Galaxy",
+    "Best Finish": "https://bigbook.app/captain/236734",
+    "Event Image": "https://assets.datacore.app/events_hvge_stowaway_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "October 24, 2024",
+    "Event Name": "You Can Never Escape",
+    "Event Type": "Voyage",
+    "Best Finish": "https://bigbook.app/captain/1036360",
+    "Event Image": "https://assets.datacore.app/events_ve_youcanneverescape_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "October 31, 2024",
+    "Event Name": "Lucidum Finalis 2",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "https://bigbook.app/captain/6891125",
+    "Event Image": "https://assets.datacore.app/events_hfge_lucidumfinalis_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "November 07, 2024",
+    "Event Name": "Revenge of the Machines",
+    "Event Type": "Hybrid - Skirmish / Galaxy",
+    "Best Finish": "https://bigbook.app/captain/5910149",
+    "Event Image": "https://assets.datacore.app/events_hsge_revengeofthemachines_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "November 14, 2024",
+    "Event Name": "Those We Leave Behind",
+    "Event Type": "Faction",
+    "Best Finish": "https://bigbook.app/captain/1036360",
+    "Event Image": "https://assets.datacore.app/events_fe_thoseweleavebehind_event.png"
+  },
+  {
+    "Fleet Rank": "3",
+    "Start Date": "November 21, 2024",
+    "Event Name": "Black Alert",
+    "Event Type": "Skirmish",
+    "Best Finish": "https://bigbook.app/captain/5910149",
+    "Event Image": "https://assets.datacore.app/events_se_blackalert_event.png"
+  },
+  {
+    "Fleet Rank": "1",
+    "Start Date": "November 28, 2024",
+    "Event Name": "The Network",
+    "Event Type": "Galaxy",
+    "Best Finish": "https://bigbook.app/captain/4503983",
+    "Event Image": "https://assets.datacore.app/events_ge_thenetwork_event.png"
+  },
+  {
+    "Fleet Rank": "TBA",
+    "Start Date": "December 5, 2024",
+    "Event Name": "Inertia",
+    "Event Type": "Hybrid - Faction / Galaxy",
+    "Best Finish": "TBA",
+    "Event Image": "https://assets.datacore.app/events_hfge_inertia_event.png"
+  },
+  {
+    "Fleet Rank": "TBA",
+    "Start Date": "December 12, 2024",
+    "Event Name": "Finish Line",
+    "Event Type": "Voyage",
+    "Best Finish": "TBA",
+    "Event Image": "https://assets.datacore.app/events_ve_finishline_event.png"
+  }
+]
