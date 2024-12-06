@@ -1,0 +1,354 @@
+[
+  {
+    "Name": "/SSR/ Bkud",
+    "Event Name": "Quadrilateral",
+    "Event Image": "https://assets.datacore.app/events_quadrilateral_rerun_event.png",
+    "Event Type": "Expedition",
+    "Dates": "August 12th – August 15th, 2016",
+    "Total VP": "951,300"
+  },
+  {
+    "Name": "/SSR/ Tinkertailor",
+    "Event Name": "Ship of Memory",
+    "Event Image": "https://assets.datacore.app/events_ship_of_memory_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "June 8th – June 12th, 2017",
+    "Total VP": "2,005,840"
+  },
+  {
+    "Name": "/SSR/ Artaniel",
+    "Event Name": "The Captains Oath 2",
+    "Event Image": "https://assets.datacore.app/events_captains_oath_rerun_event.png",
+    "Event Type": "Hybrid Faction/Galaxy",
+    "Dates": "November 1st - November 5th, 2018",
+    "Total VP": "6,477,622"
+  },
+  {
+    "Name": "/SSR/ Barkley",
+    "Event Name": "Auld Lang Syne",
+    "Event Image": "https://assets.datacore.app/events_auldlangsyne_event.png",
+    "Event Type": "Hybrid Skirmish/Expedition",
+    "Dates": "December 20th - December 24th, 2018",
+    "Total VP": "12,394,100"
+  },
+  {
+    "Name": "/SSR/ CappyCapCap",
+    "Event Name": "Crimson Spark",
+    "Event Image": "https://assets.datacore.app/events_fe_crimsonspark_event.png",
+    "Event Type": "Faction",
+    "Dates": "June 6th - June 10th, 2019",
+    "Total VP": "3,187,248"
+  },
+  {
+    "Name": "/SSR/ Maelstrom",
+    "Event Name": "Time Tsunami",
+    "Event Image": "https://assets.datacore.app/events_ge_timetsunami_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "June 20th - June 24th, 2019",
+    "Total VP": "13,756,620"
+  },
+  {
+    "Name": "/SSR/ Barkley",
+    "Event Name": "For Charity",
+    "Event Image": "https://assets.datacore.app/events_ge_forcharity_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "November 14th - November 18th, 2019",
+    "Total VP": "9,560,995"
+  },
+  {
+    "Name": "/SSR/ RearAdmiralDworf",
+    "Event Name": "Phantom Pain",
+    "Event Image": "https://assets.datacore.app/events_ge_phantompain_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "February 20 - February 24th, 2020",
+    "Total VP": "13,000,145"
+  },
+  {
+    "Name": "/SSR/ Capt Ajamm",
+    "Event Name": "Dirty Rotten Holograms 2",
+    "Event Image": "https://assets.datacore.app/events_ge_dirtyrottenholograms_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "March 5th - March 9th, 2020",
+    "Total VP": "8,464,630"
+  },
+  {
+    "Name": "/SSR/ Maelstrom",
+    "Event Name": "Blundering Terror",
+    "Event Image": "https://assets.datacore.app/events_ge_blunderingterror_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "May 28th - June 1st, 2020",
+    "Total VP": "10,621,970"
+  },
+  {
+    "Name": "/SSR/ Bri",
+    "Event Name": "The Noblest Half",
+    "Event Image": "https://assets.datacore.app/events_hfge_thenoblesthalf_event.png",
+    "Event Type": "Hybrid Faction/Galaxy",
+    "Dates": "October 8th- October 12th, 2020",
+    "Total VP": "10,190,840"
+  },
+  {
+    "Name": "/SSR/ Barkley",
+    "Event Name": "His Vulcan Mind",
+    "Event Image": "https://assets.datacore.app/events_ge_hisvulcanmind_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "October 22nd – October 26th, 2020",
+    "Total VP": "9,536,895"
+  },
+  {
+    "Name": "/SSR/ Artaniel",
+    "Event Name": "Baby Boom",
+    "Event Image": "https://assets.datacore.app/events_ge_babyboom_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "March 11th - March 15th, 2021",
+    "Total VP": "16,286,395"
+  },
+  {
+    "Name": "/SSR/ Bri",
+    "Event Name": "Guiding Principles 3",
+    "Event Image": "https://assets.datacore.app/events_hfge_guidingprinciples_event.png",
+    "Event Type": "Hybrid Faction/Galaxy",
+    "Dates": "March 25th - March 29th, 2021",
+    "Total VP": "11,506,306"
+  },
+  {
+    "Name": "/SSR/ Fantastic",
+    "Event Name": "The Isthmian Games 3",
+    "Event Image": "https://assets.datacore.app/events_the_isthmian_games_rerun_event.png",
+    "Event Type": "Faction",
+    "Dates": "May 27th – May 31st, 2021",
+    "Total VP": "6,014,337"
+  },
+  {
+    "Name": "/SSR/ Maelstrom",
+    "Event Name": "A Good Lead",
+    "Event Image": "https://assets.datacore.app/events_ge_agoodlead_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "June 3rd – June 7th, 2021",
+    "Total VP": "8,365,410"
+  },
+  {
+    "Name": "/SSR/ ThisSisko1",
+    "Event Name": "All for One",
+    "Event Image": "https://assets.datacore.app/events_fe_allforone_event.png",
+    "Event Type": "Faction",
+    "Dates": "July 15th – June 19th, 2021",
+    "Total VP": "5,317,239"
+  },
+  {
+    "Name": "/SSR/ Maelstrom",
+    "Event Name": "Its the Fuzz",
+    "Event Image": "https://assets.datacore.app/events_ge_itsthefuzz_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "August 12th – August 16th, 2021",
+    "Total VP": "8,513,195"
+  },
+  {
+    "Name": "/SSR/ ThisSisko1",
+    "Event Name": "The Miracles They Deserve",
+    "Event Image": "https://assets.datacore.app/events_fe_themiraclestheydeserve_event.png",
+    "Event Type": "Faction",
+    "Dates": "October 7th – October 11th, 2021",
+    "Total VP": "5,033,874"
+  },
+  {
+    "Name": "/SSR/ PhotonKim",
+    "Event Name": "Stream of Lives 2",
+    "Event Image": "https://assets.datacore.app/events_hfge_streamoflives_event.png",
+    "Event Type": "Faction/Galaxy",
+    "Dates": "December 30th, 2021 – January 3rd, 2022",
+    "Total VP": "7,244,537"
+  },
+  {
+    "Name": "/SSR/ ThisSisko1",
+    "Event Name": "Disaffect and Divergence",
+    "Event Image": "https://assets.datacore.app/events_fe_disaffectanddivergence_event.png",
+    "Event Type": "Faction",
+    "Dates": "January 6th – January 10th, 2022",
+    "Total VP": "5,402,988"
+  },
+  {
+    "Name": "/SSR/ Maelstrom",
+    "Event Name": "Convergence Day 3",
+    "Event Image": "https://assets.datacore.app/events_convergence_day_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "January 13th – January 17th, 2022",
+    "Total VP": "10,002,565"
+  },
+  {
+    "Name": "/SSR/ Maelstrom",
+    "Event Name": "Cracked Chronos",
+    "Event Image": "https://assets.datacore.app/events_ge_crackedchronos_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "April 7th – April 11th, 2022",
+    "Total VP": "10,053,160"
+  },
+  {
+    "Name": "/SSR/ Evans of Wales",
+    "Event Name": "Terran Nights",
+    "Event Image": "https://assets.datacore.app/events_se_terrannights_event.png",
+    "Event Type": "Skirmish",
+    "Dates": "April 14th – April 18th, 2022",
+    "Total VP": "20,698,750"
+  },
+  {
+    "Name": "/SSR/ ThisSisko1",
+    "Event Name": "Looted Boxes 2",
+    "Event Image": "https://assets.datacore.app/events_hfge_lootedboxes_event.png",
+    "Event Type": "Faction/Galaxy",
+    "Dates": "July 28th – August 1st, 2022",
+    "Total VP": "12,668,125"
+  },
+  {
+    "Name": "/SSR/ Gazoo",
+    "Event Name": "Dramatic Relations",
+    "Event Image": "https://assets.datacore.app/events_hfge_dramaticrelations_event.png",
+    "Event Type": "Faction/Galaxy",
+    "Dates": "October 20th – October 24th, 2022",
+    "Total VP": "7,372,161"
+  },
+  {
+    "Name": "/SSR/ AJ Warp 9",
+    "Event Name": "Lucidum Finalis",
+    "Event Image": "https://assets.datacore.app/events_hfge_lucidumfinalis_event.png",
+    "Event Type": "Faction/Galaxy",
+    "Dates": "November 17th – November 21st, 2022",
+    "Total VP": "8,200,325"
+  },
+  {
+    "Name": "/SSR/ Nolian",
+    "Event Name": "Here Today Where Tomorrow",
+    "Event Image": "https://assets.datacore.app/events_ge_heretodaywheretomorrow_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "December 15th – December 19th, 2022",
+    "Total VP": "8,327,500"
+  },
+  {
+    "Name": "/SSR/ Kiwi",
+    "Event Name": "A Thousand Lifetimes",
+    "Event Image": "https://assets.datacore.app/events_hsge_athousandlifetimes_event.png",
+    "Event Type": "Skirmish/Galaxy",
+    "Dates": "February 15th – February 20th, 2023",
+    "Total VP": "16,000,180"
+  },
+  {
+    "Name": "/SSR/ Kiwi",
+    "Event Name": "Medicine for Mayhem",
+    "Event Image": "https://assets.datacore.app/events_ge_medicineformayhem_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "May 11th – May 15th, 2023",
+    "Total VP": "7,336,995"
+  },
+  {
+    "Name": "/SSR/ Kiwi",
+    "Event Name": "Cracks",
+    "Event Image": "https://assets.datacore.app/events_ge_cracks_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "June 15th – June 19th, 2023",
+    "Total VP": "16,613,120"
+  },
+  {
+    "Name": "/SSR/ Evans of Wales",
+    "Event Name": "Integration",
+    "Event Image": "https://assets.datacore.app/events_hfse_integration_event.png",
+    "Event Type": "Faction/Skirmish",
+    "Dates": "September 7th – September 11th, 2023",
+    "Total VP": "12,684,885"
+  },
+  {
+    "Name": "/SSR/ Callimachus",
+    "Event Name": "Criminal Mischief",
+    "Event Image": "https://assets.datacore.app/events_ge_criminalmischief_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "September 14th – September 18th, 2023",
+    "Total VP": "11,865,175"
+  },
+  {
+    "Name": "/SSR/ Kiwi",
+    "Event Name": "Screaming Into the Void",
+    "Event Image": "https://assets.datacore.app/events_se_screamingintothevoid_event.png",
+    "Event Type": "Skirmish",
+    "Dates": "October 12th – October 16th, 2023",
+    "Total VP": "24,763,650"
+  },
+  {
+    "Name": "/SSR/ Kiwi",
+    "Event Name": "Uncanny Valley",
+    "Event Image": "https://assets.datacore.app/events_hfge_uncannyvalley_event.png",
+    "Event Type": "Faction/Galaxy",
+    "Dates": "October 26th – October 30th, 2023",
+    "Total VP": "11,229,078"
+  },
+  {
+    "Name": "/SSR/ Gazoo",
+    "Event Name": "Building a New World",
+    "Event Image": "https://assets.datacore.app/events_fe_buildinganewworld_event.png",
+    "Event Type": "Faction",
+    "Dates": "December 7th – December 11th, 2023",
+    "Total VP": "6,030,681"
+  },
+  {
+    "Name": "/SSR/ Kiwi",
+    "Event Name": "The Path Less Traveled",
+    "Event Image": "https://assets.datacore.app/events_ge_thepathlesstraveled_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "January 11th – January 15th, 2024",
+    "Total VP": "11,553,470"
+  },
+  {
+    "Name": "/SSR/ Kiwi",
+    "Event Name": "New Life",
+    "Event Image": "https://assets.datacore.app/events_hfge_newlife_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "February 1st – February 5th, 2024",
+    "Total VP": "11,198,422"
+  },
+  {
+    "Name": "/SSR/ gmLorca",
+    "Event Name": "Sleeping Giants",
+    "Event Image": "https://assets.datacore.app/events_fe_sleepinggiants_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "March 21st – March 25th, 2024",
+    "Total VP": "8,014,398"
+  },
+  {
+    "Name": "/SSR/ krakho",
+    "Event Name": "Magnificent Ferengi",
+    "Event Image": "https://assets.datacore.app/events_ge_magnificentferengi_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "April 4th – April 8th, 2024",
+    "Total VP": "17,009,400"
+  },
+  {
+    "Name": "/SSR/ Kiwi",
+    "Event Name": "Unique Offerings",
+    "Event Image": "https://assets.datacore.app/events_ge_uniqueofferings_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "April 18th – April 22nd, 2024",
+    "Total VP": "24,202,960"
+  },
+  {
+    "Name": "/SSR/ Tuck 04",
+    "Event Name": "Throw the Book At Em",
+    "Event Image": "https://assets.datacore.app/events_fe_throwthebookatem_event.png",
+    "Event Type": "Galaxy",
+    "Dates": "August 29th – September 2nd, 2024",
+    "Total VP": "6,504,214"
+  },
+  {
+    "Name": "/SSR/ Callimachus",
+    "Event Name": "Whispers in the Dark",
+    "Event Image": "https://assets.datacore.app/events_ge_whispersinthedark_event.png",
+    "Event Type": "Faction",
+    "Dates": "October 3rd – October 7th, 2024",
+    "Total VP": "11,971,215"
+  },
+  {
+    "Name": "/SSR/ Big Bird",
+    "Event Name": "Black Alert",
+    "Event Image": "https://assets.datacore.app/events_se_blackalert_event.png",
+    "Event Type": "Skirmish",
+    "Dates": "November 21st – November 25th, 2024",
+    "Total VP": "12,600,800"
+  }
+]
