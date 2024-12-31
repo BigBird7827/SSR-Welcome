@@ -1519,10 +1519,24 @@
     "Event Image": "https://assets.datacore.app/events_ge_criminalmischief_event.png"
   },
   {
-    "Fleet Rank": "TBA",
+    "Fleet Rank": 2,
     "Start Date": "December 26, 2024",
     "Event Name": "Writer's Block",
     "Event Type": "Hybrid - Faction / Galaxy",
     "Event Image": "https://assets.datacore.app/events_hfge_writersblock_event.png"
+  },
+  {
+    "Fleet Rank": "TBA",
+    "Start Date": "January 2, 2025",
+    "Event Name": "A Question of Ethics",
+    "Event Type": "Faction",
+    "Event Image": "https://assets.datacore.app/events_fe_aquestionofethics_event.png"
+  },
+  {
+    "Fleet Rank": "TBA",
+    "Start Date": "January 9, 2025",
+    "Event Name": "Fashionably Late",
+    "Event Type": "Skirmish",
+    "Event Image": ""
   }
 ]
