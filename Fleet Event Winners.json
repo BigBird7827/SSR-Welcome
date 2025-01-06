@@ -350,5 +350,13 @@
     "Event Type": "Skirmish",
     "Dates": "November 25th, 2024",
     "Total VP": "12,600,800"
+  },
+  {
+    "Name": "Borg",
+    "Event Name": "A Question of Ethics",
+    "Event Image": "https://assets.datacore.app/events_fe_aquestionofethics_event.png",
+    "Event Type": "Faction",
+    "Dates": "January 6th, 2025",
+    "Total VP": "TBA"
   }
 ]
